@@ -26,3 +26,4 @@ THEN I find a concise, descriptive title
 
 ## Resource Link 
 https://github.com/joshfaith24/Module-1-Challenge
+https://joshfaith24.github.io/Module-1-Challenge/
