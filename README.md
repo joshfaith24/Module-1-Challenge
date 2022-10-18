@@ -32,6 +32,6 @@ The website is now all aligned with same sizing in images, margins and text. Hea
 ## Resource Link 
 https://github.com/joshfaith24/Module-1-Challenge
 https://joshfaith24.github.io/Module-1-Challenge/
-<img width="1440" alt="Screen Shot 2022-10-18 at 1 02 58 AM" src="https://user-images.githubusercontent.com/113576524/196340043-f51ef969-036c-4967-8bee-854478393854.png">
-<img width="1440" alt="Screen Sho<img width="1440" alt="Screen Shot 2022-10-18 at 1 03 16 AM" src="https://user-images.githubusercontent.com/113576524/196340063-d0e861c6-60ea-47d4-8b82-758026b1b61a.png">
-t 2022-10-18 at 1 03 08 AM" src="https://user-images.githubusercontent.com/113576524/196340055-aa218a87-4553-4721-a8af-fc627e804dcc.png">
+![Screen Shot 2022-10-18 at 1 02 58 AM](https://user-images.githubusercontent.com/113576524/196340487-131eff67-4413-4ff2-9ee5-53cdd8914bab.jpeg)
+![Screen Shot 2022-10-18 at 1 03 08 AM](https://user-images.githubusercontent.com/113576524/196340494-15304d1e-052c-45c2-b15a-20f94a56dd![Screen Shot 2022-10-18 at 1 03 16 AM](https://user-images.githubusercontent.com/113576524/196340506-44d6496f-132b-4ab6-a121-8c132f7f7723.jpeg)
+96.jpeg)
