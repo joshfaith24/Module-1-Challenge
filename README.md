@@ -24,6 +24,9 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
+## Review
+The website is now all aligned with same sizing in images, margins and text. Header and resources on top are equal in size, with everything being cohesive on the website. The website is now visually appealing and the information in the site is able to be read, so all consumers of the content will not struggle. 
+
 ## Resource Link 
 https://github.com/joshfaith24/Module-1-Challenge
 https://joshfaith24.github.io/Module-1-Challenge/
