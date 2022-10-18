@@ -4,7 +4,7 @@ Module 1 Homework Assignment
 
 # Internet: Tools For Success
 
-This website is made for everyone alike, giving out free information in order to show the necessary tools to succeed with anything through the internet. It is used to help students, teachers, aspiring entrepreneurs, and anyone working online, with tips and tricks.
+This website is made for everyone alike, giving out free information in order to show the necessary tools to succeed with anything through the internet. It is used to help students, teachers, aspiring entrepreneurs, and anyone working online, with tips and tricks. The pictures and text are aligned, with resource links being equally spread apart on the header. The images and text are the same size with the same margin on the sides of each one.
 
 ##  User Story
 AS A marketing agency
@@ -23,3 +23,6 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
+
+## Resource Link 
+https://github.com/joshfaith24/Module-1-Challenge
